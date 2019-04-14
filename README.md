@@ -1,3 +1,3 @@
 # hello-world
-no description\n
+no description
 i said no description.
