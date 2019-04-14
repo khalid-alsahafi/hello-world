@@ -78,13 +78,4 @@ def parallelogram(base, tilted_side, tilt_angle):
 	bk(tilted_side)
 	rt(tilt_angle)
 
-
-for i in range(360//2):
-	square(i*2)
-	lt(2)
-
-	
-
-
-
 done()
